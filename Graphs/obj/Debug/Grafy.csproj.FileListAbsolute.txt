@@ -1,0 +1,6 @@
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\bin\Debug\Graphs.exe.config
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\bin\Debug\Graphs.exe
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\bin\Debug\Graphs.pdb
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\obj\Debug\Graphs.exe
+c:\users\kuba\documents\visual studio 2013\Projects\Graphs\Graphs\obj\Debug\Graphs.pdb
